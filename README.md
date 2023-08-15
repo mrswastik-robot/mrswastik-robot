@@ -3,18 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 being in the WebDev field for the past 1 year, I have been developing personal and hackathons full stack projects. Recently I have been also trying to get my hands dirty in Mobile App development and Open Source contributions. Sometimes I also try Linux and Cybersecurity stuff to get high at night. With new frameworks, technologies, AI models launching almost every single day I am also trying to stay updated, researching and learning new technologies in this fast-paced industry.
 
-* 🌍  I'm based in Noida
-* ✉️  You can contact me at [swastikpatel29@gmail.com](mailto:swastikpatel29@gmail.com)
-* 🧠  I'm learning BlockChain Development
-* 🤝  I'm open to collaborating on Interesting projects
+* 🌍  I'm based in Noida
+* ✉️  You can contact me at [swastikpatel29@gmail.com](mailto:swastikpatel29@gmail.com)
+* 🧠  I'm learning BlockChain Development
+* 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
-
 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
-
 
 ### Socials
 
